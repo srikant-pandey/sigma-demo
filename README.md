@@ -1,2 +1,2 @@
 # sigma-demo
-this is demo for the git &amp; github
+this is demo for the git &amp; github class.
